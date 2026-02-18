@@ -37,7 +37,7 @@ For example, when an HR analyst attempts to access employee background check rec
 
 # Git Repository Metadata
 
-**Project:** Lab 6 - Zero Trust Policy  
+**Project:** Lab 2 - Zero Trust Policy  
 **Filename:** ZT-Policy-Profile.md  
 **Commit Message:** Added Zero Trust policy profile for HR PII database – https://github.com/jasmineelabyad/Lab2-ZeroTrust  
 **D**
