@@ -9,7 +9,7 @@ The Policy Engine is the decision making brain of a Zero Trust Architecture. Its
 The Policy Administrator acts as the rule setter and coordinator within Zero Trust. It is responsible for translating the Policy Engine’s decision into action by configuring access permissions, issuing authentication tokens, or triggering session setup. The PA ensures that the rules defined by security leadership are properly applied to systems and users.
 
 **Policy Enforcement Point (PEP)**  
-The Policy Enforcement Point is the gatekeeper that sits directly in front of the protected resource. Its function is to enforce the decision made by the Policy Engine by either allowing or blocking access. The PEP does not make decisions; it simply enforces them in real time by controlling traffic to applications, databases, or services.
+The Policy Enforcement Point is the gatekeeper that sits directly in front of the protected resource. Its function is to enforce the decision made by the Policy Engine by either allowing or blocking access. The PEP does not make decisions it simply enforces them in real time by controlling traffic to applications, databases, or services.
 
 ---
 
