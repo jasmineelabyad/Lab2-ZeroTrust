@@ -3,7 +3,7 @@
 ## 1. ZTA Component Definitions
 
 **Policy Engine (PE)**  
-The Policy Engine is the decision-making brain of a Zero Trust Architecture. Its main role is to evaluate access requests by analyzing security signals such as who the user is, the condition of their device, and where they are connecting from. Based on predefined policies and real-time context, the Policy Engine decides whether access should be approved or denied. It does not enforce access itself; it only makes the decision.
+The Policy Engine is the decision making brain of a Zero Trust Architecture. Its main role is to evaluate access requests by analyzing security signals such as who the user is, the condition of their device, and where they are connecting from. Based on predefined policies and real-time context, the Policy Engine decides whether access should be approved or denied. It does not enforce access itself it only makes the decision.
 
 **Policy Administrator (PA)**  
 The Policy Administrator acts as the rule setter and coordinator within Zero Trust. It is responsible for translating the Policy Engine’s decision into action by configuring access permissions, issuing authentication tokens, or triggering session setup. The PA ensures that the rules defined by security leadership are properly applied to systems and users.
